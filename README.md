@@ -1,4 +1,5 @@
 # Repository_name
+
 As Kanye West said:
 
 > We're living the future so
@@ -16,5 +17,3 @@ _You **can** combine them_
 
 I think you should use an
 `<addr>` element here instead.
-
-![Image] (/Users/maks/Downloads/index.jpg)
